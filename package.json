@@ -1,0 +1,27 @@
+{
+  "name": "@czalexzhan/ts-service",
+  "version": "1.1.2",
+  "description": "从yapi拉取typescript model",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yapi",
+    "auto-service",
+    "typescript"
+  ],
+  "bin": {
+    "ts-service": "lib/cli.js"
+  },
+  "author": "czalexzhan <cz.zhanxw@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "auto-service": "^3.6.3",
+    "shelljs": "^0.8.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,21 @@
+{
+  "url": "",
+  "remoteUrl": "",
+  "requestConfig": {
+    "url": ""
+  },
+  "type": "yapi",
+  "yapiConfig": {
+    "required": false,
+    "bodyJsonRequired": false,
+    "categoryMap": {}
+  },
+  "swaggerParser": {},
+  "validateResponse": false,
+  "guardConfig": {},
+  "swaggerConfig": {
+    "include": [
+      "*"
+    ]
+  }
+}
